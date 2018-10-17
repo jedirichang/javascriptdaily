@@ -1,2 +1,2 @@
 # javascriptdaily
-A simple web applocation about the love and hate for JavaScript. 
+A simple web application about the love and hate for JavaScript. 
